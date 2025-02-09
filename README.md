@@ -86,7 +86,7 @@ The chosen architecture was selected for the following reasons:
     * Accuracy: 72.68%
     * Loss: 56.02%
 
-    ![Alt text](Images/optimization1.png)
+    
 
 ### Attempt 2: Different Activation & More Neurons
 * Cutoff Change: Reduced APPLICATION_TYPE threshold to 700.
@@ -100,7 +100,7 @@ The chosen architecture was selected for the following reasons:
 * **Results:**
     * Accuracy: 72.59%
     * Loss: 57.41%
-    ![Alt text](Images/optimization2.png)
+    
 ### Attempt 3: Further Architecture Modification
 * **New Architecture:**
    * First Layer: 126 Neurons, ReLU
@@ -112,7 +112,7 @@ The chosen architecture was selected for the following reasons:
 * **Results:**
     * Accuracy: 72.44%
     * Loss: 57.82%
-    ![Alt text](Images/optimization3.png)
+    
 
 ## Summary of Results & Recommendations
 
